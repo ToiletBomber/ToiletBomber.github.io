@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Hexo</title>
+  <title>ToiletBomber</title>
   
   
-  <link href="http://example.com/atom.xml" rel="self"/>
+  <link href="http://tcmax.tk/atom.xml" rel="self"/>
   
-  <link href="http://example.com/"/>
+  <link href="http://tcmax.tk/"/>
   <updated>2022-07-29T01:18:03.211Z</updated>
-  <id>http://example.com/</id>
+  <id>http://tcmax.tk/</id>
   
   <author>
-    <name>John Doe</name>
+    <name>ToiletBomber</name>
     
   </author>
   
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://example.com/2022/07/29/hello-world/"/>
-    <id>http://example.com/2022/07/29/hello-world/</id>
+    <link href="http://tcmax.tk/2022/07/29/hello-world/"/>
+    <id>http://tcmax.tk/2022/07/29/hello-world/</id>
     <published>2022-07-29T01:18:03.211Z</published>
     <updated>2022-07-29T01:18:03.211Z</updated>
     

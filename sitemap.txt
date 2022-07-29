@@ -1,4 +1,4 @@
-http://example.com/categories/index.html
-http://example.com/tags/index.html
-http://example.com/2022/07/29/hello-world/
-http://example.com/
+http://tcmax.tk/categories/index.html
+http://tcmax.tk/tags/index.html
+http://tcmax.tk/2022/07/29/hello-world/
+http://tcmax.tk/
