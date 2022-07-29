@@ -3,11 +3,11 @@
   <title>ToiletBomber</title>
   
   
-  <link href="http://toiletbomber.github.io/atom.xml" rel="self"/>
+  <link href="http://tcmax.tk/atom.xml" rel="self"/>
   
-  <link href="http://toiletbomber.github.io/"/>
+  <link href="http://tcmax.tk/"/>
   <updated>2022-07-29T01:18:03.211Z</updated>
-  <id>http://toiletbomber.github.io/</id>
+  <id>http://tcmax.tk/</id>
   
   <author>
     <name>ToiletBomber</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://toiletbomber.github.io/2022/07/29/hello-world/"/>
-    <id>http://toiletbomber.github.io/2022/07/29/hello-world/</id>
+    <link href="http://tcmax.tk/2022/07/29/hello-world/"/>
+    <id>http://tcmax.tk/2022/07/29/hello-world/</id>
     <published>2022-07-29T01:18:03.211Z</published>
     <updated>2022-07-29T01:18:03.211Z</updated>
     
