@@ -1,6 +1,4 @@
----
-title: Anaconda Note
----
+
 ## anconda更新
 
 >conda update conda
