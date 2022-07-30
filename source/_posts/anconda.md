@@ -1,5 +1,5 @@
 ---
-title: Anaconda相关命令
+title: Anaconda Note
 ---
 ## anconda更新
 
